@@ -129,10 +129,10 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: FALSE
 
 related_blog_posts:
-  enabled: true
+  enabled: FALSE
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
